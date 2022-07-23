@@ -1,0 +1,30 @@
+package com.testBase;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.chrome.ChromeOptions;
+
+public class TestDriver {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		System.setProperty("webdriver.chrome.driver", "chromedriver");
+		WebDriver driver = new ChromeDriver();
+		WebDriver driver1 = new ChromeDriver(new ChromeOptions().setHeadless(true));
+		driver.get("https://www.google.com/");	
+		
+		
+		driver.close();
+		driver1.get("https://www.youtube.com");
+	String title=	driver1.getTitle();
+	String page=	driver1.findElement(By.id("country-code")).getText();
+	//page.get
+		System.out.println(title);
+		
+		System.out.println("The page name  "+ page);
+	}
+
+}

@@ -1,0 +1,9 @@
+| TestBase| | OpenBrowser | | 46 | 17/08/2020 11:21:00  devpinoyLogger Browser selected ::chrome
+| TestBase| | OpenBrowser | | 66 | 17/08/2020 11:21:06  devpinoyLogger the Url Opened ::
+| HomePage| | clickonTodaysDeal | | 17 | 17/08/2020 11:21:10  devpinoyLogger Clicked on Today's Deal
+| CommonWebElements| | selectcheckbox | | 23 | 17/08/2020 11:21:12  devpinoyLogger Selected books check box
+| HomePage| | clickonTodaysDeal | | 17 | 17/08/2020 11:21:26  devpinoyLogger Clicked on Today's Deal
+| CommonWebElements| | selectcheckbox | | 26 | 17/08/2020 11:21:27  devpinoyLogger Selected camera and picture check box
+| HomePage| | clickonTodaysDeal | | 17 | 17/08/2020 11:21:41  devpinoyLogger Clicked on Today's Deal
+| CommonWebElements| | selectcheckbox | | 29 | 17/08/2020 11:21:42  devpinoyLogger Selected cellphone and accessories check box
+| TestBase| | CloseBrowser | | 75 | 17/08/2020 11:21:53  devpinoyLogger Browser Closed

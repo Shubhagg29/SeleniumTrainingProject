@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;Library&apos; to &apos;logic&apos;&#x0A;- Original project: &apos;PageObjectModel_FDAFW&apos;&#x0A;- Destination element: &apos;logic&apos;&#x0A;- Original element: &apos;Library&apos;" description="Copy folder" element1="Library" files="0" flags="589830" folders="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1617186262126" target="/logic" units="0" version="1.0"/>
+</session>

@@ -1,0 +1,21 @@
+package overridingDemo;
+
+public class HDfc extends RBI
+{
+
+	public static void main(String[] args) {
+		
+		HDfc hdfc  = new HDfc();
+
+		
+	}
+	
+	
+	public void homeLoanIntrestRate() {
+
+		System.out.println("HDFC home loan intrest rate HDFC  8%");
+
+	}
+
+
+}

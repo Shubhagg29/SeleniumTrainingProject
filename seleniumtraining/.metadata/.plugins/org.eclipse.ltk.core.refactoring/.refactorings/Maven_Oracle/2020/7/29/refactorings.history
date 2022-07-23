@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;Test1.java&apos; to &apos;Maven_Oracle/src/test/java/testCases&apos;&#x0A;- Original project: &apos;Maven_Oracle&apos;&#x0A;- Destination element: &apos;Maven_Oracle/src/test/java/testCases&apos;&#x0A;- Original element: &apos;testCases.Test1.java&apos;" description="Copy compilation unit" destination="/src\/test\/java&lt;testCases" element1="/src\/test\/java&lt;testCases{Test1.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1594979086405" units="1" version="1.0"/>
+</session>

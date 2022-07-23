@@ -1,0 +1,21 @@
+| TestBase| | OpenBrowser | | 40 | 15/07/2020 16:37:52  devpinoyLogger Browser selected ::chrome
+| TestBase| | OpenBrowser | | 60 | 15/07/2020 16:37:56  devpinoyLogger the Url Opened ::
+| HomePage| | clickonTodaysDeal | | 17 | 15/07/2020 16:37:59  devpinoyLogger Clicked on Today's Deal
+| CommonWebElements| | selectcheckbox | | 23 | 15/07/2020 16:38:01  devpinoyLogger Selected books check box
+| ListofBooksPage| | clickonAddToCart | | 19 | 15/07/2020 16:38:04  devpinoyLogger Clicked on add to Cart
+| ListofBooksPage| | verifySuccessmsg | | 25 | 15/07/2020 16:38:04  devpinoyLogger Verified Success message
+| Test1| | testCase1 | | 24 | 15/07/2020 16:38:04  devpinoyLogger ..........Test1 is Completed.............
+| CommonWebElements| | assertAll | | 50 | 15/07/2020 16:38:04  devpinoyLogger Assert all is executed...
+| HomePage| | clickonTodaysDeal | | 17 | 15/07/2020 16:38:07  devpinoyLogger Clicked on Today's Deal
+| CommonWebElements| | selectcheckbox | | 26 | 15/07/2020 16:38:09  devpinoyLogger Selected camera and picture check box
+| ListofCameraPage| | clickonAddToCart | | 18 | 15/07/2020 16:38:11  devpinoyLogger Clicked on add to Cart
+| ListofCameraPage| | verifysucessmsg | | 23 | 15/07/2020 16:38:12  devpinoyLogger Verified Success message
+| Test2| | testCase2 | | 25 | 15/07/2020 16:38:12  devpinoyLogger ..........Test2 is Completed.............
+| CommonWebElements| | assertAll | | 50 | 15/07/2020 16:38:12  devpinoyLogger Assert all is executed...
+| HomePage| | clickonTodaysDeal | | 17 | 15/07/2020 16:38:14  devpinoyLogger Clicked on Today's Deal
+| CommonWebElements| | selectcheckbox | | 29 | 15/07/2020 16:38:15  devpinoyLogger Selected cellphone and accessories check box
+| CellphoneListPage| | clickonAddToCart | | 18 | 15/07/2020 16:38:19  devpinoyLogger Clicked on add to Cart
+| CellphoneListPage| | verifysucessmsg | | 25 | 15/07/2020 16:38:19  devpinoyLogger Verified Success message
+| Test3| | testCase3 | | 27 | 15/07/2020 16:38:19  devpinoyLogger ..........Test1 is Completed.............
+| CommonWebElements| | assertAll | | 50 | 15/07/2020 16:38:19  devpinoyLogger Assert all is executed...
+| TestBase| | CloseBrowser | | 69 | 15/07/2020 16:38:19  devpinoyLogger Browser Closed
